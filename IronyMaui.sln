@@ -4,6 +4,8 @@ VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IronyMaui", "src\IronyMaui\IronyMaui.csproj", "{A9640E73-F69C-4777-9E28-BBF5DF3AB30C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Irony", "Irony\Irony.csproj", "{C3B3B3CC-8497-45C7-868E-CBE60D169192}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,6 +18,10 @@ Global
 		{A9640E73-F69C-4777-9E28-BBF5DF3AB30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9640E73-F69C-4777-9E28-BBF5DF3AB30C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A9640E73-F69C-4777-9E28-BBF5DF3AB30C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C3B3B3CC-8497-45C7-868E-CBE60D169192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B3B3CC-8497-45C7-868E-CBE60D169192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B3B3CC-8497-45C7-868E-CBE60D169192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B3B3CC-8497-45C7-868E-CBE60D169192}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
