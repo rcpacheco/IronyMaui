@@ -2,15 +2,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IronyMaui", "src\IronyMaui\IronyMaui.csproj", "{A9640E73-F69C-4777-9E28-BBF5DF3AB30C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Irony.GrammarExplorer", "src\Irony.GrammarExplorer\Irony.GrammarExplorer.csproj", "{A9640E73-F69C-4777-9E28-BBF5DF3AB30C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Irony", "src\Irony\Irony.csproj", "{C3B3B3CC-8497-45C7-868E-CBE60D169192}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Irony.Interpreter", "src\Irony.Interpreter\Irony.Interpreter.csproj", "{C775139C-385E-4343-ADD4-A588E4D67A75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Irony.Samples", "src\Irony.Samples\Irony.Samples.csproj", "{0F848F20-8B80-4BC5-B927-5512B81061DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Irony.Samples", "src\Irony.Samples\Irony.Samples.csproj", "{0F848F20-8B80-4BC5-B927-5512B81061DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Irony.Samples.Console", "src\Irony.Samples.Console\Irony.Samples.Console.csproj", "{525983B6-1F70-4DE1-90A4-DD0F930AC667}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Irony.Samples.Console", "src\Irony.Samples.Console\Irony.Samples.Console.csproj", "{525983B6-1F70-4DE1-90A4-DD0F930AC667}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
