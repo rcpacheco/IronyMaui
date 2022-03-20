@@ -10,6 +10,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Irony.Interpreter", "src\Ir
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Irony.Samples", "src\Irony.Samples\Irony.Samples.csproj", "{0F848F20-8B80-4BC5-B927-5512B81061DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Irony.Samples.Console", "src\Irony.Samples.Console\Irony.Samples.Console.csproj", "{525983B6-1F70-4DE1-90A4-DD0F930AC667}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,6 +36,10 @@ Global
 		{0F848F20-8B80-4BC5-B927-5512B81061DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F848F20-8B80-4BC5-B927-5512B81061DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F848F20-8B80-4BC5-B927-5512B81061DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{525983B6-1F70-4DE1-90A4-DD0F930AC667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525983B6-1F70-4DE1-90A4-DD0F930AC667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525983B6-1F70-4DE1-90A4-DD0F930AC667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525983B6-1F70-4DE1-90A4-DD0F930AC667}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
