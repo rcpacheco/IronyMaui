@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Components.WebView.Maui;
+using MudBlazor.Services;
 
 namespace IronyMaui;
 
@@ -16,6 +17,7 @@ public static class MauiProgram
 			});
 
 		builder.Services.AddBlazorWebView();
+		builder.Services.AddMudServices();
 
 		return builder.Build();
 	}
